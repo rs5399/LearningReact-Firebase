@@ -7,6 +7,7 @@ firebase.initializeApp({
   apiKey: "AIzaSyDsV7sbGYBZl1snATZnzmL1uNIfpd04dhQ",
   authDomain: "fire-auth-23a2e.firebaseapp.com"
 })
+//qwerty
 
 class App extends Component {
   state = { isSignedIn: false }
